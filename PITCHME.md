@@ -7,6 +7,7 @@ theme: uncover
 transition: fade
 paginate: true
 _paginate: false
+image: og-image.jpg
 ---
 
 ![bg opacity](./assets/gradient.jpg)
